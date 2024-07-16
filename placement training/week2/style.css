@@ -1,0 +1,9 @@
+.container{
+    background-color: azure;
+    border: 20px;
+    height: 200px;
+    width: 350px;
+    border-color: green;
+    padding: 20px 30px 40px;
+    border-style:solid;
+}
